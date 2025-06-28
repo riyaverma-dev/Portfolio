@@ -91,7 +91,7 @@ const Home: React.FC<HomeProps> = ({ onNavigate }) => {
             </div>
             <div className="text-center">
               <div className="text-2xl font-bold text-pink-400">2</div>
-              <div className="text-xs text-gray-400">Awards</div>
+              <div className="text-xs text-gray-400"><Achievements></Achievements></div>
             </div>
           </div>
         </div>
